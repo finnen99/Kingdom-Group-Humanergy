@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Microsoft Sans Serif";
+    src: url('./../fonts/micross.ttf');
+}
+
+@font-face {
+    font-family: "Microsoft Yi Baiti";
+    src: url('./../fonts/msyi.ttf');
+}
+
+@font-face {
+    font-family: "Microsoft New Tai Lue";
+    src: url('./../fonts/ntailu.ttf');
+}
+
+@font-face {
+    font-family: "D-DIN";
+    src: url('./../fonts/D-DIN/D-DIN.otf');
+    font-style: normal;
+}
+
